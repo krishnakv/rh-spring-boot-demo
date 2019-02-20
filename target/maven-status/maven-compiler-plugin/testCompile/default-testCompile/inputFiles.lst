@@ -1,3 +1,3 @@
-/home/krishna_kumar08-infosys.com/appmod_springboot_experienced/lab-03-catalog-service/src/test/java/com/redhat/coolstore/catalog/verticle/service/CatalogServiceTest.java
-/home/krishna_kumar08-infosys.com/appmod_springboot_experienced/lab-03-catalog-service/src/test/java/com/redhat/coolstore/catalog/api/ApiVerticleTest.java
-/home/krishna_kumar08-infosys.com/appmod_springboot_experienced/lab-03-catalog-service/src/test/java/com/redhat/coolstore/catalog/verticle/service/MongoTestBase.java
+/home/krishna_kumar08-infosys.com/source/rh-spring-boot-demo/src/test/java/com/redhat/coolstore/catalog/api/ApiVerticleTest.java
+/home/krishna_kumar08-infosys.com/source/rh-spring-boot-demo/src/test/java/com/redhat/coolstore/catalog/verticle/service/MongoTestBase.java
+/home/krishna_kumar08-infosys.com/source/rh-spring-boot-demo/src/test/java/com/redhat/coolstore/catalog/verticle/service/CatalogServiceTest.java
